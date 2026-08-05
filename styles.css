@@ -65,7 +65,6 @@ header {
     gap: 8px;
 }
 
-/* Conteneur des liens et du sélecteur aligné horizontalement */
 nav {
     display: flex;
     align-items: center;
@@ -82,7 +81,6 @@ nav a:hover {
     color: var(--primary-diamond);
 }
 
-/* --- SÉLECTEUR DE LANGUE --- */
 .lang-selector {
     position: relative;
 }
