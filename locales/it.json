@@ -1,0 +1,31 @@
+{
+  "nav": {
+    "about": "Chi siamo",
+    "projects": "Progetti",
+    "contact": "Contatti",
+    "team": "Squadra"
+  },
+  "hero": {
+    "title": "Costruire un futuro migliore con Diamond Technologies",
+    "description": "Diamond Technologies progetta robot autonomi e software di utilità, rimanendo Open-Source.",
+    "btn_projects": "Scopri i progetti",
+    "btn_about": "Saperne di più"
+  },
+  "features": {
+    "autonomous": {
+      "title": "Sistemi Autonomi",
+      "desc": "Progettazione hardware e software per applicazioni robotiche intelligenti e ad alta precisione."
+    },
+    "ai": {
+      "title": "Intelligenza Artificiale",
+      "desc": "Integrazione di modelli avanzati di Deep Learning e assistenti vocali di nuova generazione."
+    },
+    "software": {
+      "title": "Software Ad Alte Prestazioni",
+      "desc": "Sviluppo di applicazioni moderne, leggere e ottimizzate per un'esperienza utente fluida."
+    }
+  },
+  "footer": {
+    "copyright": "© 2026 Diamond Technologies. Tutti i diritti riservati. 💎"
+  }
+}

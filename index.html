@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Diamond Technologies | Main</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&display=swap" rel="stylesheet">
+    <link rel="shortcut icon" href="/assets/img/DT-logo.png" type="image/x-icon">
+</head>
+<body>
+
+    <div class="glow-bg"></div>
+
+    <header>
+        <div class="logo">
+            <a href="/index.html">Diamond Technologies</a>
+        </div>
+        
+        <nav>
+            <a href="#about" data-i18n="nav.about"></a>
+            <a href="#projects" data-i18n="nav.projects"></a>
+            <a href="#contact" data-i18n="nav.contact"></a>
+            <a href="#contact" data-i18n="nav.team"></a>
+        </nav>
+
+        <div class="lang-selector">
+            <select id="lang-select" aria-label="Choisir la langue">
+                <option value="fr">🇫🇷 French</option>
+                <option value="en">🇬🇧 English</option>
+                <option value="es">🇪🇸 Spanish</option>
+                <option value="it">🇮🇹 Italiano</option>
+            </select>
+        </div>
+    </header>
+
+    <section class="hero">
+        <h1 data-i18n="hero.title"></h1>
+        <p data-i18n="hero.description"></p>
+        <div class="btn-group">
+            <a href="#projects" class="btn btn-primary" data-i18n="hero.btn_projects"></a>
+            <a href="/about/about.html" class="btn btn-secondary" data-i18n="hero.btn_about"></a>
+        </div>
+    </section>
+
+    <section class="features" id="projects">
+        <div class="card">
+            <div class="card-icon"></div>
+            <h3 data-i18n="features.autonomous.title"></h3>
+            <p data-i18n="features.autonomous.desc"></p>
+        </div>
+
+        <div class="card">
+            <div class="card-icon"></div>
+            <h3 data-i18n="features.ai.title"></h3>
+            <p data-i18n="features.ai.desc"></p>
+        </div>
+
+        <div class="card">
+            <div class="card-icon">⚡</div>
+            <h3 data-i18n="features.software.title"></h3>
+            <p data-i18n="features.software.desc"></p>
+        </div>
+    </section>
+
+    <footer>
+        <p data-i18n="footer.copyright"></p>
+
+        <a href="https://github.com/Diamond-Technologies-Corp" target="_blank" rel="noopener noreferrer">
+        <img width="30" height="30" src="https://img.icons8.com/ios-glyphs/30/github.png" alt="GitHub-Logo" />
+        </a>
+
+        <a href="https://www.youtube.com/@DiamondTechnologies-m9c" target="_blank" rel="noopener noreferrer">
+        <img width="30" height="30" src="https://img.icons8.com/ios-glyphs/30/youtube-play.png" alt="Youtube-logo" />
+        </a>
+
+        <a href="https://discord.gg/nX5Cm899Kq" target="_blank" rel="noopener noreferrer">
+        <img width="30" height="30" src="https://img.icons8.com/ios-glyphs/50/discord-logo.png" alt="discord-logo" />
+        </a>
+
+        <a href="https://www.tiktok.com/@diamond.tech12" target="_blank" rel="noopener noreferrer">
+        <img width="30" height="30" src="https://img.icons8.com/ios-filled/50/tiktok--v1.png" alt="TikTok-Logo" />
+        </a>
+
+        <p> All footer icons come from  <a href="https://icons8.com/" target="_blank" rel="noopener noreferrer">Icon8.</a> </p>
+    </footer>
+
+    <script src="i18.js"></script>
+</body>
+</html>
