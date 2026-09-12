@@ -8,10 +8,20 @@
   "hero": {
     "title": "Bâtir un meilleur avenir avec Diamond Technologies",
     "description": "Diamond Technologies conçoit des robots autonomes, logiciels utilitaires, en restant Open-Source.",
-    "btn_projects": "Découvrir nos produits/achats",
+    "btn_projects": "Découvrir nos projets",
     "btn_about": "En savoir plus"
 
   },
+  "about-main": {
+    "title": "À propos de notre philosophie...",
+    "content": "Nous nous efforcons d'être 100% Transparent ! Nous voulons constuire/améliorer les services d'Internet, en restant généralement Gratuit & Open-Source."
+  },
+
+  "about-main2": {
+    "title": "Innovation & Accessibilité",
+    "content": "Nous concevons également des logiciels gratuits et Open-Source, tout en proposant des solutions payantes et avancées. Une partie de ces revenus sert à financer nos projets et à soutenir nos actions solidaires."
+  },
+
   "features": {
     "autonomous": {
       "title": "Systèmes Autonomes",
@@ -24,5 +34,9 @@
   },
   "footer": {
     "copyright": "© 2026 Diamond Technologies. Tous droits réservés. 💎"
+  },
+  "Contact": {
+    "contact-h1": "Contact",
+    "Contact-p": "Vous pouvez nous contacter pour n'importe quelle raison, notre équipe essayera de répondre le plus vite possible. "
   }
 }

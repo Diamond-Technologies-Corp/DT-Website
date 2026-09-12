@@ -11,11 +11,24 @@
     "btn_projects": "Descubrir proyectos",
     "btn_about": "Saber más"
   },
+"about-main": {
+  "title": "Acerca de nuestra filosofía...",
+  "content": "Nos esforzamos por ser 100% transparente! Queremos construir/mejorar los servicios de Internet, siendo generalmente gratuitos y de código abierto."
+  },
+
+"about-main2": {
+  "title": "Innovación y accesibilidad",
+  "content": "También diseñamos software gratuito y de código abierto, además de ofrecer soluciones avanzadas y de pago. Una parte de estos ingresos sirve para financiar nuestros proyectos y apoyar nuestras acciones solidarias."
+  },
+
   "features": {
     "autonomous": {
       "title": "Sistemas Autónomos",
       "desc": "Diseño de hardware y software para aplicaciones robóticas inteligentes."
     },
+
+
+
     "software": {
       "title": "Software de Alto Rendimiento",
       "desc": "Desarrollo de aplicaciones modernas y optimizadas."

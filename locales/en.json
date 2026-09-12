@@ -11,6 +11,17 @@
     "btn_projects": "Discover projects",
     "btn_about": "Learn more"
   },
+
+"about-main": {
+  "title": "About our philosophy...",
+  "content": "We strive to be 100% transparent! We want to build/improve Internet services, generally remaining Free & Open-Source."
+  },
+
+  "about-main2": {
+    "title": "Innovation & Accessibility",
+    "content": "We also design free and open-source software, while offering paid and advanced solutions. Part of this income is used to finance our projects and support our solidarity actions."
+  },
+
   "features": {
     "autonomous": {
       "title": "Autonomous Systems",
@@ -23,5 +34,9 @@
   },
   "footer": {
     "copyright": "© 2026 Diamond Technologies. All rights reserved. 💎"
+  },
+  "Contact": {
+    "contact-h1": "Contact",
+    "Contact-p": "Vous pouvez nous contacter pour n'importe quelle raison, notre équipe essayera de répondre le plus vite possible. "
   }
 }

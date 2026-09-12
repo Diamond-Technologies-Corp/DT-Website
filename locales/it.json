@@ -11,6 +11,17 @@
     "btn_projects": "Scopri i progetti",
     "btn_about": "Saperne di più"
   },
+
+"about-main": {
+  "title": "La nostra filosofia...",
+  "content": "Ci sforziamo di essere 100% trasparente! Vogliamo costruire/migliorare i servizi di Internet, rimanendo generalmente Free & Open-Source."
+},
+
+  "about-main2": {
+    "title": "Innovazione e accessibilità",
+    "content": "Realizziamo anche software gratuito e open source, offrendo soluzioni avanzate a pagamento. Una parte di queste entrate serve a finanziare i nostri progetti e a sostenere le nostre azioni solidali."
+  },
+
   "features": {
     "autonomous": {
       "title": "Sistemi Autonomi",
