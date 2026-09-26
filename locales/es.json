@@ -36,5 +36,9 @@
   },
   "footer": {
     "copyright": "© 2026 Diamond Technologies. Todos los derechos reservados. 💎"
+  },
+  "Contact": {
+    "contact-h1": "Contacto",
+    "contact-p": "Puede contactarnos por cualquier motivo, nuestro equipo intentará responder lo más rápido posible. "
   }
 }

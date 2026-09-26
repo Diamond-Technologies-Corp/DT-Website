@@ -27,7 +27,6 @@ a {
     display: inline-block;
 }
 
-/* --- EFFETS D'ARRIÈRE-PLAN --- */
 .glow-bg {
     position: absolute;
     top: -100px;
@@ -127,52 +126,6 @@ nav a:hover {
     margin-bottom: 1.5rem;
 }
 
-.hero h1 {
-    font-size: 3.5rem;
-    font-weight: 800;
-    line-height: 1.2;
-    margin-bottom: 1.5rem;
-}
-
-.hero h1 span {
-    background: linear-gradient(135deg, #ffffff, var(--primary-diamond));
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-}
-
-.hero p {
-    font-size: 1.2rem;
-    color: var(--text-muted);
-    margin-bottom: 2.5rem;
-}
-
-.card {
-    background: var(--card-bg);
-    border: 1px solid rgba(255, 255, 255, 0.05);
-    padding: 2.5rem;
-    border-radius: 16px;
-    backdrop-filter: blur(5px);
-    transition: all 0.3s ease;
-    cursor: pointer;
-}
-
-.card:hover {
-    transform: translateY(-5px);
-    border-color: var(--border-glow);
-    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
-}
-
-.card-icon {
-    font-size: 2.5rem;
-    margin-bottom: 1rem;
-}
-
-.card h3 {
-    font-size: 1.3rem;
-    margin-bottom: 0.8rem;
-}
-
-.card p {
-    color: var(--text-muted);
-    font-size: 0.95rem;
+h1 {
+    text-align: center; 
 }
