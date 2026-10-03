@@ -223,7 +223,7 @@ nav a:hover {
     font-size: 0.95rem;
 }
 
-/* --- FOOTER --- */
+
 footer {
     text-align: center;
     padding: 3rem 10%;
@@ -231,6 +231,7 @@ footer {
     color: var(--text-muted);
     font-size: 0.9rem;
     margin-top: 4rem;
+    background-color: rgb(34, 40, 54);
 }
 
 @media (max-width: 768px) {
