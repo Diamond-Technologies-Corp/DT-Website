@@ -33,10 +33,14 @@
     }
   },
   "footer": {
-    "copyright": "© 2026 Diamond Technologies. Tous droits réservés. 💎"
+    "copyright": "© 2026 Diamond Technologies. Tous droits réservés."
   },
   "Contact": {
     "contact-h1": "Contact",
     "contact-p": "Vous pouvez nous contacter pour n'importe quelle raison, notre équipe essayera de vous répondre le plus vite possible."
-  }
+  },
+  "About-us": {
+  "about-us": "à propos de nous?",
+  "body-aboutus": "Diamond Technologies est une entreprise basée en Suisse, développant des outils/logiciels utilitaires, des équipements informatiques et des robots. Nous portons des valeurs sur le respect des droits des données, gratuit ou payant mais aucune publicité intégrée dans nos logiciels."
 }
+  }
