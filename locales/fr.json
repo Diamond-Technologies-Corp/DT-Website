@@ -42,5 +42,8 @@
   "About-us": {
   "about-us": "à propos de nous?",
   "body-aboutus": "Diamond Technologies est une entreprise basée en Suisse, développant des outils/logiciels utilitaires, des équipements informatiques et des robots. Nous portons des valeurs sur le respect des droits des données, gratuit ou payant mais aucune publicité intégrée dans nos logiciels."
-}
+},
+  "Team": {
+    "milkaa": "Fondateur, ceo et principal Développeur."
+  }
   }
