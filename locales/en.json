@@ -39,6 +39,8 @@
     "contact-h1": "Contact",
     "contact-p": "You can contact us for any reason, our team will try to respond as soon as possible. "
   },
-  "About-us": "About us?",
+  "About-us": {
+  "about-us": "About us?",
   "body-aboutus": "Diamond Technologies is a Switzerland-based company that develops utility tools and software, computer equipment, and robots. We are committed to respecting data rights; our software is available for free or for a fee, but contains no built-in advertising."
+  }
 }
